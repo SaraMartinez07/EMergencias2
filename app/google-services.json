@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962800370077",
+    "project_id": "emergenciasm-4175b",
+    "storage_bucket": "emergenciasm-4175b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962800370077:android:bdb16100215c6e9d762f74",
+        "android_client_info": {
+          "package_name": "com.example.emergencias2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYjsiUzqDSYS8nFNuFw74tjfq1T2g178"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
